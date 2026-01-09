@@ -41,11 +41,17 @@ O objetivo é demonstrar a aplicação prática de estruturas de dados balancead
 
 # 📁 Estrutura do Projeto
 📂 indice-remissivo-avl/
+
  ├── no.py                # Estrutura do nó da árvore
+ 
  ├── avl.py               # Implementação da Árvore AVL
+ 
  ├── main.py              # Execução principal do projeto
+ 
  ├── texto_origem.txt     # Texto base para indexação
+ 
  ├── indice_remissivo.txt # Arquivo gerado com o índice
+ 
  └── README.md
 
 # 📄 Arquivo de Entrada
