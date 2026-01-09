@@ -6,24 +6,38 @@ O objetivo é demonstrar a aplicação prática de estruturas de dados balancead
 # Funcionalidades
 
 📖 Construção automática de índice remissivo
+
 🌳 Inserção de palavras em Árvore AVL (auto-balanceada)
+
 🔍 Busca eficiente de palavras
+
 📏 Cálculo do medidor de equilíbrio (ME) de um nó
+
 🔤 Listagem alfabética das palavras indexadas
+
 📊 Identificação da palavra mais frequente
+
 ⏱️ Medição do tempo de construção do índice
+
 🔁 Contabilização do número de rotações da AVL
 
 # 🧠 Tecnologias e Conceitos Utilizados
 
-Python 3
-Estruturas de Dados
-Árvores Binárias de Busca
-Árvores AVL
-Recursividade
-Manipulação de arquivos .txt
-Processamento de texto (normalização, remoção de acentos)
-Análise de desempenho
+-Python 3
+
+-Estruturas de Dados
+
+-Árvores Binárias de Busca
+
+-Árvores AVL
+
+-Recursividade
+
+-Manipulação de arquivos .txt
+
+-Processamento de texto (normalização, remoção de acentos)
+
+-Análise de desempenho
 
 # 📁 Estrutura do Projeto
 📂 indice-remissivo-avl/
@@ -39,6 +53,7 @@ Análise de desempenho
 texto_origem.txt
 
 Texto em português com múltiplas linhas
+
 Usado como base para a construção do índice remissivo
 
 # 📑 Arquivo de Saída
@@ -46,21 +61,28 @@ Usado como base para a construção do índice remissivo
 indice_remissivo.txt
 
 Contém:
+
 Palavras em ordem alfabética
+
 Linhas de ocorrência
+
 Estatísticas finais do processamento
 
 # 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com fins acadêmicos, visando consolidar conhecimentos sobre árvores AVL, balanceamento automático e organização eficiente de dados textuais.
+
 Ele demonstra como estruturas de dados clássicas podem ser aplicadas para resolver problemas reais de indexação e busca.
 
 # 📌 Observações
 
-Palavras são tratadas sem distinção entre maiúsculas e minúsculas
-Acentos são removidos para padronização
-Palavras com apenas um caractere são desconsideradas
-Linhas repetidas para uma mesma palavra são registradas apenas uma vez
+-Palavras são tratadas sem distinção entre maiúsculas e minúsculas
+
+-Acentos são removidos para padronização
+
+-Palavras com apenas um caractere são desconsideradas
+
+-Linhas repetidas para uma mesma palavra são registradas apenas uma vez
 
 # 👨‍💻 Autor
 
