@@ -109,6 +109,7 @@ Caso a palavra não seja encontrada:
 A palavra 'exemplo' não foi encontrada.
 
 📏 Medidor de Equilíbrio (ME)
+
 Durante a busca, o programa calcula o Medidor de Equilíbrio (ME), definido como a diferença entre a quantidade de nós da subárvore esquerda e da subárvore direita do nó encontrado.
 
 - ME = 0 → nó balanceado
@@ -118,10 +119,13 @@ Durante a busca, o programa calcula o Medidor de Equilíbrio (ME), definido como
 - Palavra não encontrada → mensagem apropriada
 
 📊 Palavra mais frequente
+
 O programa também identifica a palavra que aparece em mais linhas distintas no texto:
+
 palavraMaisFrequente(arvore)
 
 Exemplo de saída:
+
 A palavra mais frequente é 'dados', que aparece em 27 linhas.
 
 📌 Observações Finais
@@ -137,4 +141,5 @@ A palavra mais frequente é 'dados', que aparece em 27 linhas.
 - A Árvore AVL garante eficiência mesmo para textos extensos
 
 👨‍💻 Autor
+
 Projeto desenvolvido para a disciplina de Estruturas de Dados II, utilizando Python, VSCode e GitHub.
