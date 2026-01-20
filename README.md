@@ -97,15 +97,19 @@ python main.py
 O índice será construído automaticamente a partir do arquivo texto_origem.txt, e o arquivo indice_remissivo.txt será gerado contendo as palavras em ordem alfabética.
 
 🔎 Busca de uma palavra
+
 Exemplo de busca por uma palavra na árvore AVL:
+
 buscarPalavra(arvore, "exemplo")
 
 Saída esperada:
+
 A palavra 'exemplo' foi encontrada.
 O medidor de equilíbrio é 0.
 A palavra aparece nas linhas: [3, 15, 42]
 
 Caso a palavra não seja encontrada:
+
 A palavra 'exemplo' não foi encontrada.
 
 📏 Medidor de Equilíbrio (ME)
