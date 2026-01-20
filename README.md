@@ -1,43 +1,32 @@
 # 📚 Índice Remissivo com Árvore AVL em Python
 
-Este projeto implementa um índice remissivo de palavras a partir de um documento de texto em língua portuguesa, utilizando uma Árvore AVL como estrutura de dados principal.
-O objetivo é demonstrar a aplicação prática de estruturas de dados balanceadas para indexação, busca e análise eficiente de informações textuais.
+## 📌 Introdução
 
-# Funcionalidades
+Este projeto tem como objetivo desenvolver um **índice remissivo de palavras** a partir de um documento de texto em língua portuguesa, utilizando uma **Árvore AVL** como estrutura de dados principal.
 
-📖 Construção automática de índice remissivo
+O problema consiste em organizar as palavras extraídas de um texto extenso de forma **ordenada alfabeticamente**, associando cada palavra às **linhas em que ela aparece**, sem repetição de linhas para uma mesma palavra. Além disso, o sistema deve permitir **operações eficientes de inserção, busca e análise**, mesmo para grandes volumes de dados.
 
-🌳 Inserção de palavras em Árvore AVL (auto-balanceada)
+Para resolver esse problema, foi utilizada a **Árvore AVL**, uma árvore binária de busca auto-balanceada, garantindo desempenho **O(log n)** nas operações principais. A estrutura da árvore permite manter o índice sempre ordenado, dispensando ordenações adicionais.
 
-🔍 Busca eficiente de palavras
+---
 
-📏 Cálculo do medidor de equilíbrio (ME) de um nó
+## 🧠 Estruturas de Dados Utilizadas
 
-🔤 Listagem alfabética das palavras indexadas
+- **Árvore AVL**
+  - Estrutura principal para armazenamento das palavras
+  - Responsável pelo balanceamento automático
+- **Conjunto (`set`)**
+  - Utilizado para evitar duplicação de linhas para uma mesma palavra
+- **Dicionário (`dict`)**
+  - Utilizado para organizar e escrever o índice final
+- **Recursividade**
+  - Aplicada nas operações de inserção, busca e percursos da árvore
 
-📊 Identificação da palavra mais frequente
+---
 
-⏱️ Medição do tempo de construção do índice
+## 📄 Documentação do Código
 
-🔁 Contabilização do número de rotações da AVL
-
-# 🧠 Tecnologias e Conceitos Utilizados
-
--Python 3
-
--Estruturas de Dados
-
--Árvores Binárias de Busca
-
--Árvores AVL
-
--Recursividade
-
--Manipulação de arquivos .txt
-
--Processamento de texto (normalização, remoção de acentos)
-
--Análise de desempenho
+O projeto foi desenvolvido de forma modular, organizado nos seguintes arquivos:
 
 # 📁 Estrutura do Projeto
 📂 indice-remissivo-avl/
@@ -54,42 +43,98 @@ O objetivo é demonstrar a aplicação prática de estruturas de dados balancead
  
  └── README.md
 
-# 📄 Arquivo de Entrada
 
-texto_origem.txt
+### 🔹 `no.py`
 
-Texto em português com múltiplas linhas
+Define a estrutura do **nó da Árvore AVL**.  
+Cada nó armazena:
+- A palavra indexada
+- Um conjunto com as linhas em que a palavra aparece
+- Referência para o filho esquerdo
+- Referência para o filho direito
+- A altura do nó, necessária para o cálculo do balanceamento
 
-Usado como base para a construção do índice remissivo
+---
 
-# 📑 Arquivo de Saída
+### 🔹 `avl.py`
 
-indice_remissivo.txt
+Implementa a **Árvore AVL**, contendo:
+- Inserção de palavras na árvore
+- Atualização das alturas dos nós
+- Cálculo do fator de balanceamento
+- Rotações simples e duplas para manter a árvore balanceada
+- Busca eficiente de palavras
+- Percurso em ordem para geração do índice remissivo
+- Contador do número total de rotações realizadas
 
-Contém:
+---
 
-Palavras em ordem alfabética
+### 🔹 `main.py`
 
-Linhas de ocorrência
+Arquivo responsável pela execução do projeto.  
+Suas principais responsabilidades são:
+- Leitura do arquivo `texto_origem.txt`
+- Extração das palavras utilizando expressões regulares
+- Normalização das palavras (minúsculas e remoção de acentos)
+- Inserção das palavras na Árvore AVL juntamente com o número da linha
+- Contabilização do total de palavras, palavras distintas e palavras descartadas
+- Medição do tempo de construção do índice
+- Escrita do índice remissivo no arquivo `indice_remissivo.txt`
+- Busca de palavras na árvore
+- Identificação da palavra mais frequente
 
-Estatísticas finais do processamento
+---
 
-# 🎯 Objetivo do Projeto
+## ▶️ Exemplos de Uso
 
-Este projeto foi desenvolvido com fins acadêmicos, visando consolidar conhecimentos sobre árvores AVL, balanceamento automático e organização eficiente de dados textuais.
+### 🔍 Construção do índice
 
-Ele demonstra como estruturas de dados clássicas podem ser aplicadas para resolver problemas reais de indexação e busca.
+Para construir o índice remissivo, execute o arquivo principal:
 
-# 📌 Observações
+```bash
+python main.py
+```
+O índice será construído automaticamente a partir do arquivo texto_origem.txt, e o arquivo indice_remissivo.txt será gerado contendo as palavras em ordem alfabética.
 
--Palavras são tratadas sem distinção entre maiúsculas e minúsculas
+🔎 Busca de uma palavra
+Exemplo de busca por uma palavra na árvore AVL:
+buscarPalavra(arvore, "exemplo")
 
--Acentos são removidos para padronização
+Saída esperada:
+A palavra 'exemplo' foi encontrada.
+O medidor de equilíbrio é 0.
+A palavra aparece nas linhas: [3, 15, 42]
 
--Palavras com apenas um caractere são desconsideradas
+Caso a palavra não seja encontrada:
+A palavra 'exemplo' não foi encontrada.
 
--Linhas repetidas para uma mesma palavra são registradas apenas uma vez
+📏 Medidor de Equilíbrio (ME)
+Durante a busca, o programa calcula o Medidor de Equilíbrio (ME), definido como a diferença entre a quantidade de nós da subárvore esquerda e da subárvore direita do nó encontrado.
 
-# 👨‍💻 Autor
+- ME = 0 → nó balanceado
 
-Projeto desenvolvido para a disciplina de Estruturas de Dados II, utilizando Python, VSCode e Github.
+- ME ≠ 0 → nó não perfeitamente balanceado
+
+- Palavra não encontrada → mensagem apropriada
+
+📊 Palavra mais frequente
+O programa também identifica a palavra que aparece em mais linhas distintas no texto:
+palavraMaisFrequente(arvore)
+
+Exemplo de saída:
+A palavra mais frequente é 'dados', que aparece em 27 linhas.
+
+📌 Observações Finais
+
+- Não há distinção entre letras maiúsculas e minúsculas
+
+- Acentos são removidos para padronização
+
+- Palavras com apenas um caractere são desconsideradas
+
+- Linhas repetidas para a mesma palavra são armazenadas apenas uma vez
+
+- A Árvore AVL garante eficiência mesmo para textos extensos
+
+👨‍💻 Autor
+Projeto desenvolvido para a disciplina de Estruturas de Dados II, utilizando Python, VSCode e GitHub.
