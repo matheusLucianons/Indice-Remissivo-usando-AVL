@@ -1,0 +1,494 @@
+a 4, 6, 8, 10, 16, 18, 19, 20, 21, 23, 24, 27, 30, 36, 42, 45, 46, 48, 53, 54, 56, 57, 58, 59, 61, 62, 63, 65, 68, 70, 72, 73, 74, 75, 78, 83, 86, 88, 92, 94, 95, 96, 100, 102, 104, 106, 108, 110, 114, 115, 117, 118, 119, 120, 122, 123, 124, 131, 132, 137, 139, 140, 141, 142, 144, 146, 147, 149, 150, 151, 152, 154, 156, 157, 169, 172, 173, 174, 178, 180, 183, 184, 185, 187, 190, 192, 193, 194, 195, 196, 197, 199, 201, 202, 204, 205
+aberto 69, 124
+aceitavam 89
+aceitos 22
+acompanhava 16, 114, 116, 185
+acontecimentos 16, 120
+acumulava 178
+afirmacao 166
+agora 160
+alguns 89
+alterava 41, 189
+ambiente 47, 81
+ambigua 48, 196
+ambiguidades 129
+amizade 10
+amor 25, 133, 179
+analisados 38
+ansiedade 27
+anterior 79
+antiga 4, 161
+anuncio 168
+ao 6, 35, 58, 60, 133, 153, 159
+aparecia 37, 144
+aparentemente 50
+apontava 111
+apresentava 76, 183
+aprofundava 117, 199
+aproximava 17, 102
+ar 31
+arrependimentos 190
+as 12, 24, 26, 32, 34, 40, 43, 49, 51, 71, 80, 81, 84, 96, 98, 107, 113, 126, 130, 135, 158, 163, 165, 167, 171, 175, 177, 181, 188, 191
+assumia 136
+assuntos 158
+atencao 7, 63, 157
+atenta 137
+atento 145
+atravessava 147
+atual 61, 152, 204
+autor 67, 145, 203
+bairro 31
+bentinho 5, 13, 28, 79, 91
+buscava 44, 110, 166, 193
+buscavam 93
+cabia 58
+cada 39, 114
+caminho 111
+caminhos 183
+capitu 1, 9, 14, 29, 85, 100, 160
+cartas 26, 84
+casa 4, 84, 154
+cenarios 169
+central 46, 70
+certezas 188
+cheia 4
+cheias 12
+cigana 2
+ciume 37, 125, 168
+claras 68
+classico 65, 148
+colegas 82
+colocada 42
+com 5, 7, 9, 13, 38, 67, 89, 99, 145, 154, 157, 163, 203
+como 17, 65, 94, 125, 192
+companheiro 97
+compartilhavam 82
+completo 167
+complexas 32, 130, 191
+complexidade 151
+complexos 64
+comportamento 78
+comunicacao 26
+conclusoes 142
+conduzia 203
+confessional 119
+confianca 42, 131, 172
+conflito 69, 103, 198
+conflitos 53
+conforme 43
+conforto 156
+confronto 105
+consciencia 193
+conselhos 22
+consolidou 65
+constante 6, 74, 83, 184, 192
+constantemente 172
+constantes 20
+contada 56
+contra 173
+contradicoes 132
+convenciam 177
+conversas 10, 40, 158
+convidado 195
+convidava 150
+convivencia 8, 88, 174
+coracao 111
+corredores 155
+cotidiano 50, 129
+cresceu 10
+crescia 25
+cresciam 49, 165
+criava 27, 169
+critica 63
+critico 75
+cuidado 38, 163
+culpa 192
+cumpria 75, 146
+curiosa 161
+curso 112
+da 18, 21, 79, 83, 98, 155, 156
+das 80
+de 1, 2, 4, 12, 26, 34, 37, 47, 51, 84, 100, 144
+decidida 29
+decisao 102
+decisoes 81, 182
+definitivas 197
+delicados 158
+demonstrava 14
+desafiava 73
+desapareciam 167
+desconfiado 127
+descrevia 33
+desejo 105, 184
+despertava 156
+destino 17, 89
+detalhes 33, 118, 178
+dia 77
+dialogava 67, 145
+dialogo 176
+dias 7, 30
+diferencas 88
+dificultava 176
+dilemas 20, 116
+disciplina 78
+discretamente 202
+discursos 164
+dissimulada 2
+distancia 27, 86
+distante 108, 180
+divergentes 183
+dizia 164
+diziam 52
+do 77, 109, 154
+domestica 8
+dominava 18, 123, 201
+dona 5
+dos 46, 78, 151
+duvida 36, 70, 92, 141
+duvidas 167
+e 2, 4, 10, 12, 14, 27, 64, 200, 204
+ecos 155
+ele 107
+elemento 70
+em 25, 56, 105, 109, 119, 124, 178
+emocao 200
+emocionais 115
+emocional 39
+encontros 15, 162
+enfrentava 20, 179
+engenho 3
+enredo 141, 198
+enriqueciam 118
+ensinamentos 93
+entrava 105
+entre 10
+epoca 18
+era 4, 6, 42, 46, 56, 66, 70, 83, 94, 104, 106, 122, 131, 195
+eram 12, 22, 24, 32, 38, 51, 64, 96, 128, 135, 163
+escolhas 90, 113, 181
+escolhidas 163
+escrita 53, 117, 199
+espirito 47, 93
+estabilidade 184
+estados 47
+estilo 66, 143
+estimulava 205
+estudos 77
+evidente 103
+evitavam 158
+exagerada 7
+excessos 186
+exercia 23
+exigia 63, 137, 174, 182
+expectativas 107, 165
+experiencia 190
+explicacoes 177
+explorava 59, 132
+expressao 161
+falha 54
+falhas 121
+falta 79
+familia 23, 83, 156
+familiar 106
+fatos 187
+favorecia 95
+fazia 21
+fe 18, 92
+feita 6
+ficava 124
+final 102
+firmes 182
+firmeza 14
+forcada 88
+forma 34, 37, 126, 144
+formacao 21
+formar 93
+forte 23
+fragil 131
+fragilidades 175
+fragmentada 34
+frequente 97
+frequentes 15, 162
+fugir 109
+futuro 13, 91, 113, 182
+ganhavam 126, 170
+geracoes 147
+gestos 38, 128, 170
+gloria 5
+gradualmente 49, 165
+grande 77
+guardavam 155
+habilidade 203
+historia 56, 68, 118, 137, 197
+horas 80
+humana 62
+humanas 32, 121, 130, 191
+humanos 64
+imagem 100
+imaginacao 169
+imaginado 60
+imparciais 135
+improvaveis 169
+impunha 19
+incerta 57
+incerteza 13, 114
+incerto 91
+indefinida 140
+inevitaveis 181
+inevitavel 17, 112
+infancia 3, 98, 155
+influencia 23
+influenciava 81
+inquietacoes 82
+insegurancas 171
+insistia 109
+instalava 36
+instaveis 188
+intelectual 21
+inteligencia 14
+intensificava 86
+interior 92
+internas 185
+interno 103, 198
+internos 53, 116
+interpretacao 58, 124
+interpretacoes 43, 73
+interpretar 195
+introspeccao 95
+introspectiva 45
+ironia 66, 144, 202
+isolamento 95
+jose 7
+jovens 78
+julgamentos 189
+justificar 110
+justificativas 44, 193
+juventude 20
+lar 153
+leitor 58, 67, 116, 138, 145, 195, 203
+leitura 21, 63, 74, 137, 149, 205
+lembrancas 4, 71, 135
+lentamente 11, 36
+lento 87
+levadas 24
+liberdade 79, 108
+limitacoes 55
+literatura 62, 75, 146
+longas 12
+longos 164
+lutava 173
+madura 160
+mae 5, 157
+mais 52, 87, 101, 160, 164
+mantinha 29, 31, 148, 161, 194
+marcado 66
+marcavam 80
+maturidade 180
+meio 26
+memoria 54, 72, 120, 187
+memorias 34, 98
+menor 154
+mesclava 200
+minuciosos 33
+misturava 35, 60, 92, 133, 159
+moldariam 113
+moldava 8, 72, 78
+momentos 51
+mostravam 130, 188, 191
+muitos 18
+nao 68, 135, 167
+naquela 11
+narrador 3, 33, 44, 55, 121, 136, 186
+narrativa 45, 61, 72, 115, 119, 132, 142, 152, 185, 194, 201
+natureza 62
+nem 177
+nitidez 99
+no 3, 13, 87
+noites 96
+normal 50
+nos 85
+noticias 84
+novas 153, 205
+novo 3
+novos 149
+o 3, 11, 17, 25, 31, 33, 35, 37, 41, 43, 44, 47, 50, 55, 60, 66, 67, 69, 71, 76, 78, 80, 81, 87, 89, 93, 95, 97, 99, 103, 105, 109, 111, 112, 113, 116, 121, 123, 125, 127, 129, 133, 134, 136, 138, 141, 143, 145, 148, 150, 153, 154, 159, 161, 164, 166, 168, 171, 176, 179, 182, 186, 189, 195, 198, 200, 203
+obediencia 94
+obliqua 2
+obra 59, 65, 73, 139, 147, 204
+observacao 51
+observava 7, 157
+ocultas 40
+ocultos 170
+ocupavam 77
+oferecia 68
+olhar 43, 127, 161
+olhos 1, 2
+oracoes 80
+organizava 120
+orgulho 133, 176
+os 8, 15, 16, 22, 30, 38, 52, 64, 77, 82, 86, 93, 101, 116, 118, 120, 128, 155, 162, 170
+oscilava 172
+outro 111
+outros 90
+pacato 31
+paciencia 174
+palavra 39
+palavras 52, 163
+papel 75, 146
+parecia 87, 108, 154, 180
+parte 21, 77
+participante 138
+passado 35, 99, 159
+passados 187
+passar 154
+passo 114
+passou 11
+pela 66
+pensamento 109
+pensamentos 18, 85
+pensava 13
+pequenos 178
+percepcoes 41, 134
+permanecia 57, 61, 69, 85, 100, 140, 143, 152, 196, 204
+permanencia 110
+persistia 151
+personagens 46, 64, 151
+pesavam 107
+peso 6, 39
+pessoal 105, 136
+podia 54
+por 167
+postura 29
+presenca 156
+presente 35, 85, 159
+pressao 106
+profundos 101
+promessa 6
+promessas 24
+prontas 9
+propicias 96
+prova 42
+provas 179
+provocativa 204
+provocava 74, 139
+psicologia 46, 117, 199
+que 52, 164
+questionada 104
+questionamento 22
+questionamentos 139
+questionavam 90
+razao 110, 173, 200
+real 60
+reconhecia 55, 121, 186
+reconstruia 187
+recorda 3
+recorrente 125
+recusava 142, 197
+refinado 143
+refletia 28, 47, 91
+reflexao 74, 96
+reflexivo 146, 194
+reflexoes 12, 205
+reforcava 71, 171
+regras 19
+reinterpretados 128
+relacao 48
+relacoes 32, 130, 175, 191
+relativa 122
+relato 123, 200
+releituras 150
+relevancia 148
+religiosa 104
+religiosas 24
+religioso 81
+repetia 30
+resignacao 89
+respostas 9, 68, 197
+ressaca 1
+retornavam 98
+retorno 153
+retrospectiva 56
+revelava 53, 62, 88, 115, 129, 149
+revelavam 40, 175
+rigidas 19
+ritmo 80
+rotina 30, 76
+rua 11
+saudade 27, 83
+se 15, 17, 26, 30, 35, 36, 48, 60, 65, 92, 97, 101, 102, 103, 127, 130, 133, 138, 159, 162, 178, 181, 184, 188, 191
+segredos 10
+seguia 45, 50, 112, 119
+sem 22, 168
+semelhantes 82
+seminario 6, 17, 76, 87, 109
+sempre 9, 177
+sensacoes 153
+sentia 79
+sentidos 149
+sentimento 166
+sentimentos 8, 86, 101
+ser 54
+serio 24
+seu 31, 75, 91, 112
+seus 186
+severa 76
+significados 170
+significativa 106
+silencio 25, 97, 164
+silencios 52
+silenciosa 157
+silenciosamente 90
+silenciosas 179
+simples 73, 128, 142, 170
+sinceridade 122
+sobre 28, 91, 107
+sociais 107
+sociedade 19
+sombra 192
+sua 3, 5, 28, 29, 136, 148
+suas 55, 90
+subjetividade 59, 123, 201
+surgia 9, 99, 125, 160, 168, 192, 202
+surgiam 34
+suspeita 173
+suspeitas 49, 126
+sustentava 141, 198
+sutil 37, 144
+tardes 12
+tema 125
+tempo 11, 41, 71, 87, 112, 134, 154, 171, 189
+tensao 178
+tensoes 40, 115
+texto 150
+tinha 1, 39
+todos 30
+tom 119, 194
+tornaram 15, 26
+tornava 48, 97, 103, 127, 138, 184
+tornavam 101, 162, 181
+tranquila 11
+transformacoes 185
+transformava 134
+trazia 190
+traziam 84
+trouxe 153
+tudo 7
+um 6
+uma 76
+variavam 43
+verdade 57, 140, 196
+vida 183
+virtude 94
+visao 136
+visitas 51
+vista 94
+viva 100
+vivia 5
+vizinhanca 16
+vocacao 28, 104
+
+Total de palavras: 1121
+Total de palavras distintas: 488
+Total de palavras descartadas: 633
+Total de rotações executadas: 330
+Tempo de construção do índice usando árvore AVL: 0.020s
