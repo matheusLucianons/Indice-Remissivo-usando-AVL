@@ -29,7 +29,7 @@ O projeto foi desenvolvido de forma modular, organizado nos seguintes arquivos:
 
 📁 Estrutura do Projeto
 ---
-📂 indice-remissivo-avl/
+indice-remissivo-avl/
 
 ├── no.py # Estrutura do nó da árvore
 
@@ -123,7 +123,7 @@ resultado = arvore.buscar(arvore.raiz, "exemplo")
 Caso a palavra seja encontrada, é possível analisar sua posição na árvore e as linhas associadas.
 Caso contrário, o sistema informa que a palavra não existe no índice.
 
-📏 Medidor de Equilíbrio (ME)
+Medidor de Equilíbrio (ME)
 ---
 Durante a busca, o programa calcula o Medidor de Equilíbrio (ME), definido como a diferença entre a quantidade de nós da subárvore esquerda e da subárvore direita do nó encontrado.
 
