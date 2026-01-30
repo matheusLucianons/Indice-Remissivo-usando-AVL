@@ -11,21 +11,16 @@ Para resolver esse problema, foi utilizada a Árvore AVL, uma árvore binária d
 Estruturas de Dados Utilizadas
 ---
 ◦Árvore AVL
-
    -Estrutura principal para armazenamento das palavras
-
    -Responsável pelo balanceamento automático
 
 ◦Lista
-
    -Utilizada para armazenar as linhas associadas a cada palavra, sem repetição
 
 ◦Conjunto (set)
-
    -Utilizado para contabilizar palavras distintas e palavras descartadas (estatísticas)
 
 ◦Recursividade
-
    -Aplicada nas operações de inserção, busca, remoção e percursos da árvore
 
 Documentação do Código
@@ -37,10 +32,15 @@ O projeto foi desenvolvido de forma modular, organizado nos seguintes arquivos:
 📂 indice-remissivo-avl/
 
 ├── no.py # Estrutura do nó da árvore
+
 ├── avl.py # Implementação da Árvore AVL
+
 ├── main.py # Execução principal do projeto
+
 ├── texto_origem.txt # Texto base para indexação
+
 ├── indice_remissivo.txt # Arquivo gerado com o índice
+
 └── README.md
 
 🔹 no.py
