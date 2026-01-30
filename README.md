@@ -12,6 +12,7 @@ Estruturas de Dados Utilizadas
 ---
 ◦Árvore AVL
    -Estrutura principal para armazenamento das palavras
+   
    -Responsável pelo balanceamento automático
 
 ◦Lista
