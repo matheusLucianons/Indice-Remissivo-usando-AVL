@@ -166,4 +166,4 @@ Métricas de desempenho, como tempo de execução e número de rotações, são 
 
 Autor
 ---
-Projeto desenvolvido para a disciplina de Estruturas de Dados II, utilizando Python, VS Code e GitHub.
+Projeto desenvolvido por Matheus Luciano para a disciplina de Estruturas de Dados II, utilizando Python, VS Code e GitHub.
